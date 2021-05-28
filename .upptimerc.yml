@@ -15,22 +15,16 @@ status-website:
   cname: status.buildbuddy.io
   faviconSvg: https://docs.buildbuddy.io/img/favicon_black.svg
   logoUrl: https://docs.buildbuddy.io/img/logo.svg
-  name: BuildBuddy
-  introTitle: "**BuildBuddy** is an open-core Bazel build event viewer, result store, remote cache, and remote build execution platform."
+  name: ""
+  introTitle: "**BuildBuddy Cloud** System Status"
   introMessage: This page provides status information on the services that are part of BuildBuddy Cloud. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please [contact Support](mailto:support@buildbuddy.io). 
   navbar:
     - title: Status
       href: /
-    - title: Home
-      href: http://www.buildbuddy.io/
-    - title: Docs
-      href: http://docs.buildbuddy.io/
-    - title: Blog
-      href: http://blog.buildbuddy.io/
-    - title: Slack
-      href: http://slack.buildbuddy.io/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: "© 2020 Iteration, Inc."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
