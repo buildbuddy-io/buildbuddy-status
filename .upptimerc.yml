@@ -15,7 +15,7 @@ status-website:
   cname: status.buildbuddy.io
   faviconSvg: https://docs.buildbuddy.io/img/favicon_black.svg
   logoUrl: https://docs.buildbuddy.io/img/logo.svg
-  themeUrl: https://status.buildbuddy.io/buildbuddy-theme.css
+  # themeUrl: https://status.buildbuddy.io/buildbuddy-theme.css
   name: ""
   introTitle: "**BuildBuddy** System Status"
   introMessage: This page provides status information on the services that are part of BuildBuddy Cloud. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please [contact Support](mailto:support@buildbuddy.io). 
