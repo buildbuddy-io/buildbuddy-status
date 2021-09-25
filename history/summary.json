@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 182,
+    "time": 181,
     "timeDay": 115,
-    "timeWeek": 139,
-    "timeMonth": 189,
-    "timeYear": 182,
+    "timeWeek": 117,
+    "timeMonth": 184,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2021-08-02": 8,
       "2021-07-15": 11
@@ -27,15 +27,15 @@
     "slug": "build-buddy-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 495,
-    "timeDay": 934,
-    "timeWeek": 907,
-    "timeMonth": 912,
-    "timeYear": 495,
+    "time": 498,
+    "timeDay": 800,
+    "timeWeek": 919,
+    "timeMonth": 921,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2021-09-23": 12,
       "2021-09-22": 19
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 150,
-    "timeDay": 158,
-    "timeWeek": 160,
-    "timeMonth": 136,
+    "timeDay": 220,
+    "timeWeek": 181,
+    "timeMonth": 141,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2021-06-08": 30
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 145,
-    "timeDay": 117,
-    "timeWeek": 156,
-    "timeMonth": 132,
-    "timeYear": 145,
+    "time": 146,
+    "timeDay": 230,
+    "timeWeek": 181,
+    "timeMonth": 137,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2021-06-08": 21
     }
