@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/app.buildbuddy.io",
     "slug": "build-buddy-cloud",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 140,
-    "timeWeek": 215,
-    "timeMonth": 193,
+    "timeDay": 251,
+    "timeWeek": 217,
+    "timeMonth": 197,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2021-08-02": 8,
       "2021-07-15": 11
     }
   },
@@ -26,22 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/www.buildbuddy.io",
     "slug": "build-buddy-website",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 543,
-    "timeDay": 1225,
-    "timeWeek": 891,
-    "timeMonth": 698,
-    "timeYear": 543,
-    "dailyMinutesDown": {
-      "2021-10-18": 8,
-      "2021-10-13": 5,
-      "2021-09-23": 12,
-      "2021-09-22": 19
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 544,
+    "timeDay": 770,
+    "timeWeek": 873,
+    "timeMonth": 701,
+    "timeYear": 544,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BuildBuddy Documentation",
@@ -55,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 150,
-    "timeDay": 253,
-    "timeWeek": 153,
-    "timeMonth": 151,
+    "timeDay": 71,
+    "timeWeek": 134,
+    "timeMonth": 140,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2021-06-08": 30
@@ -69,18 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/blog.buildbuddy.io",
     "slug": "build-buddy-blog",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 146,
-    "timeDay": 210,
-    "timeWeek": 166,
-    "timeMonth": 149,
-    "timeYear": 146,
-    "dailyMinutesDown": {
-      "2021-06-08": 21
-    }
+    "uptimeYear": "100.00%",
+    "time": 145,
+    "timeDay": 106,
+    "timeWeek": 155,
+    "timeMonth": 146,
+    "timeYear": 145,
+    "dailyMinutesDown": {}
   }
 ]
