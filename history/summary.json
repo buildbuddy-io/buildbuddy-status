@@ -24,19 +24,19 @@
     "url": "https://www.buildbuddy.io",
     "icon": "https://favicons.githubusercontent.com/www.buildbuddy.io",
     "slug": "build-buddy-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 162,
-    "timeWeek": 180,
-    "timeMonth": 217,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 504,
+    "timeDay": 115,
+    "timeWeek": 166,
+    "timeMonth": 213,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2021-12-15": 0
+      "2021-12-15": 18
     }
   },
   {
