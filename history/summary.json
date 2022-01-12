@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 241,
+    "timeDay": 237,
     "timeWeek": 235,
-    "timeMonth": 183,
+    "timeMonth": 186,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2021-07-15": 11
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 461,
-    "timeDay": 96,
-    "timeWeek": 143,
-    "timeMonth": 161,
-    "timeYear": 461,
+    "time": 459,
+    "timeDay": 81,
+    "timeWeek": 133,
+    "timeMonth": 158,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2021-12-21": 16,
       "2021-12-15": 18
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 146,
-    "timeDay": 135,
-    "timeWeek": 135,
-    "timeMonth": 130,
+    "timeDay": 118,
+    "timeWeek": 129,
+    "timeMonth": 128,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2022-01-12": 23,
@@ -66,19 +66,19 @@
     "url": "https://blog.buildbuddy.io",
     "icon": "https://favicons.githubusercontent.com/blog.buildbuddy.io",
     "slug": "build-buddy-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 141,
-    "timeDay": 72,
-    "timeWeek": 162,
-    "timeMonth": 129,
-    "timeYear": 141,
+    "time": 140,
+    "timeDay": 81,
+    "timeWeek": 153,
+    "timeMonth": 128,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-01-12": 23
+      "2022-01-12": 25
     }
   }
 ]
