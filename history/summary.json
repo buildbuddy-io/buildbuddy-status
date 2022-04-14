@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 157,
-    "timeWeek": 168,
-    "timeMonth": 192,
+    "timeDay": 222,
+    "timeWeek": 165,
+    "timeMonth": 194,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2021-07-15": 11
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 376,
-    "timeDay": 541,
-    "timeWeek": 160,
-    "timeMonth": 149,
-    "timeYear": 376,
+    "time": 375,
+    "timeDay": 124,
+    "timeWeek": 166,
+    "timeMonth": 147,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2021-12-21": 16,
       "2021-12-15": 18
@@ -47,17 +47,16 @@
     "slug": "build-buddy-documentation",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 151,
-    "timeDay": 258,
-    "timeWeek": 180,
-    "timeMonth": 166,
+    "timeDay": 241,
+    "timeWeek": 193,
+    "timeMonth": 168,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-04-13": 7,
       "2022-01-12": 23,
       "2021-06-08": 30
     }
@@ -69,17 +68,16 @@
     "slug": "build-buddy-blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 139,
-    "timeDay": 170,
-    "timeWeek": 143,
+    "timeDay": 168,
+    "timeWeek": 156,
     "timeMonth": 144,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2022-04-13": 7,
       "2022-01-12": 25
     }
   }
