@@ -45,9 +45,9 @@
     "url": "https://docs.buildbuddy.io",
     "icon": "https://favicons.githubusercontent.com/docs.buildbuddy.io",
     "slug": "build-buddy-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +57,7 @@
     "timeMonth": 165,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-01-12": 23
     }
   },
