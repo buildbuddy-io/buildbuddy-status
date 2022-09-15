@@ -63,18 +63,19 @@
     "url": "https://blog.buildbuddy.io",
     "icon": "https://favicons.githubusercontent.com/blog.buildbuddy.io",
     "slug": "build-buddy-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 120,
-    "timeWeek": 130,
-    "timeMonth": 145,
-    "timeYear": 138,
+    "time": 160,
+    "timeDay": 3428,
+    "timeWeek": 1231,
+    "timeMonth": 445,
+    "timeYear": 165,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-01-12": 25
     }
   }
