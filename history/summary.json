@@ -42,10 +42,10 @@
     "url": "https://docs.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.buildbuddy.io.ico",
     "slug": "build-buddy-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
@@ -54,6 +54,7 @@
     "timeMonth": 173,
     "timeYear": 167,
     "dailyMinutesDown": {
+      "2023-01-13": 1,
       "2022-09-15": 23
     }
   },
@@ -62,9 +63,9 @@
     "url": "https://blog.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.buildbuddy.io.ico",
     "slug": "build-buddy-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +75,7 @@
     "timeMonth": 141,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2023-01-13": 0,
       "2022-09-15": 23
     }
   }
