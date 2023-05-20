@@ -4,7 +4,7 @@
     "url": "https://app.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.buildbuddy.io.ico",
     "slug": "build-buddy-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 205,
     "timeMonth": 244,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-20": 0
+    }
   },
   {
     "name": "BuildBuddy Website",
