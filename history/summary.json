@@ -4,18 +4,20 @@
     "url": "https://app.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.buildbuddy.io.ico",
     "slug": "build-buddy-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 278,
-    "timeWeek": 173,
-    "timeMonth": 176,
-    "timeYear": 230,
-    "dailyMinutesDown": {}
+    "time": 247,
+    "timeDay": 4746,
+    "timeWeek": 1304,
+    "timeMonth": 467,
+    "timeYear": 255,
+    "dailyMinutesDown": {
+      "2023-12-20": 0
+    }
   },
   {
     "name": "BuildBuddy Website",
