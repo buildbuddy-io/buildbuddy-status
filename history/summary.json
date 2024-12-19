@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 290,
-    "timeWeek": 267,
-    "timeMonth": 228,
+    "time": 240,
+    "timeDay": 305,
+    "timeWeek": 275,
+    "timeMonth": 235,
     "timeYear": 246,
-    "dailyMinutesDown": {
-      "2023-12-20": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BuildBuddy Website",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 258,
-    "timeWeek": 264,
+    "timeDay": 238,
+    "timeWeek": 266,
     "timeMonth": 258,
     "timeYear": 223,
     "dailyMinutesDown": {}
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 292,
-    "timeWeek": 256,
-    "timeMonth": 284,
-    "timeYear": 296,
+    "timeDay": 429,
+    "timeWeek": 295,
+    "timeMonth": 290,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 408,
-    "timeWeek": 337,
-    "timeMonth": 303,
+    "timeDay": 420,
+    "timeWeek": 356,
+    "timeMonth": 308,
     "timeYear": 289,
     "dailyMinutesDown": {}
   }
