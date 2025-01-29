@@ -4,10 +4,10 @@
     "url": "https://app.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.buildbuddy.io.ico",
     "slug": "build-buddy-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
@@ -15,17 +15,19 @@
     "timeWeek": 265,
     "timeMonth": 229,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 2
+    }
   },
   {
     "name": "BuildBuddy Website",
     "url": "https://www.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.buildbuddy.io.ico",
     "slug": "build-buddy-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
@@ -33,17 +35,19 @@
     "timeWeek": 237,
     "timeMonth": 248,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "BuildBuddy Documentation",
     "url": "https://docs.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.buildbuddy.io.ico",
     "slug": "build-buddy-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
@@ -51,16 +55,18 @@
     "timeWeek": 324,
     "timeMonth": 315,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "BuildBuddy Blog",
     "url": "https://blog.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.buildbuddy.io.ico",
     "slug": "build-buddy-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 358,
     "timeMonth": 301,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   }
 ]
