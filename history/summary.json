@@ -6,18 +6,16 @@
     "slug": "build-buddy-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 299,
-    "timeWeek": 271,
-    "timeMonth": 232,
+    "time": 234,
+    "timeDay": 208,
+    "timeWeek": 244,
+    "timeMonth": 225,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2025-01-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BuildBuddy Website",
@@ -26,18 +24,16 @@
     "slug": "build-buddy-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 294,
-    "timeWeek": 237,
-    "timeMonth": 248,
+    "timeDay": 312,
+    "timeWeek": 269,
+    "timeMonth": 251,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2025-01-29": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BuildBuddy Documentation",
@@ -46,18 +42,16 @@
     "slug": "build-buddy-documentation",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 383,
-    "timeWeek": 334,
-    "timeMonth": 318,
+    "timeDay": 377,
+    "timeWeek": 322,
+    "timeMonth": 317,
     "timeYear": 301,
-    "dailyMinutesDown": {
-      "2025-01-29": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BuildBuddy Blog",
@@ -66,17 +60,15 @@
     "slug": "build-buddy-blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 294,
-    "timeWeek": 349,
-    "timeMonth": 301,
+    "timeDay": 309,
+    "timeWeek": 332,
+    "timeMonth": 297,
     "timeYear": 292,
-    "dailyMinutesDown": {
-      "2025-01-29": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
