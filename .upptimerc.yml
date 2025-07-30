@@ -18,7 +18,7 @@ status-website:
   # themeUrl: https://status.buildbuddy.io/buildbuddy-theme.css
   name: ""
   introTitle: "**BuildBuddy** System Status"
-  introMessage: This page provides status information on the services that are part of BuildBuddy Cloud. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please [contact Support](mailto:support@buildbuddy.io). 
+  introMessage: This page provides status information on the services that are part of BuildBuddy Cloud. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please [contact Support](mailto:support@buildbuddy.io). To subscribe to status updates in slack, use `/github subscribe buildbuddy-io/buildbuddy-status issues`. See https://github.com/integrations/slack.
   navbar:
     - title: Status
       href: /
