@@ -32,18 +32,20 @@
     "url": "https://www.buildbuddy.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.buildbuddy.io.ico",
     "slug": "build-buddy-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 123,
-    "timeWeek": 205,
-    "timeMonth": 169,
-    "timeYear": 223,
-    "dailyMinutesDown": {}
+    "time": 257,
+    "timeDay": 7603,
+    "timeWeek": 2330,
+    "timeMonth": 666,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2026-07-18": 0
+    }
   },
   {
     "name": "BuildBuddy Documentation",
