@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.buildbuddy.io.ico",
     "slug": "build-buddy-cloud",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "99.77%",
-    "time": 213,
-    "timeDay": 356,
-    "timeWeek": 149,
-    "timeMonth": 252,
+    "uptime": "99.93%",
+    "uptimeDay": "64.21%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "99.67%",
+    "time": 214,
+    "timeDay": 285,
+    "timeWeek": 167,
+    "timeMonth": 256,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2025-09-17": 89,
@@ -24,7 +24,9 @@
       "2026-07-02": 22,
       "2026-07-01": 103,
       "2026-07-29": 230,
-      "2026-07-28": 545
+      "2026-07-28": 545,
+      "2026-08-21": 23,
+      "2026-08-20": 493
     }
   },
   {
@@ -38,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 350,
-    "timeWeek": 239,
-    "timeMonth": 193,
-    "timeYear": 301,
+    "time": 286,
+    "timeDay": 716,
+    "timeWeek": 327,
+    "timeMonth": 212,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2026-07-18": 24
     }
@@ -59,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 447,
-    "timeWeek": 253,
-    "timeMonth": 325,
+    "timeDay": 364,
+    "timeWeek": 270,
+    "timeMonth": 329,
     "timeYear": 297,
     "dailyMinutesDown": {}
   },
@@ -77,10 +79,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 397,
-    "timeWeek": 230,
-    "timeMonth": 276,
-    "timeYear": 286,
+    "timeDay": 264,
+    "timeWeek": 234,
+    "timeMonth": 277,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
