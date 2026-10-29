@@ -6,13 +6,13 @@
     "slug": "build-buddy-cloud",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.65%",
+    "uptimeDay": "92.66%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.63%",
     "time": 229,
-    "timeDay": 190,
-    "timeWeek": 422,
+    "timeDay": 152,
+    "timeWeek": 325,
     "timeMonth": 405,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -25,7 +25,8 @@
       "2026-07-28": 545,
       "2026-08-21": 178,
       "2026-08-20": 493,
-      "2026-10-20": 98
+      "2026-10-20": 98,
+      "2026-10-28": 106
     }
   },
   {
@@ -40,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 165,
-    "timeWeek": 305,
-    "timeMonth": 280,
+    "timeDay": 193,
+    "timeWeek": 306,
+    "timeMonth": 282,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2026-07-18": 24
@@ -60,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 460,
-    "timeWeek": 448,
-    "timeMonth": 545,
+    "timeDay": 310,
+    "timeWeek": 453,
+    "timeMonth": 525,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -77,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 267,
-    "timeWeek": 233,
+    "time": 301,
+    "timeDay": 311,
+    "timeWeek": 237,
     "timeMonth": 419,
-    "timeYear": 299,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   }
 ]
