@@ -6,14 +6,14 @@
     "slug": "build-buddy-cloud",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.64%",
     "time": 228,
-    "timeDay": 127,
-    "timeWeek": 193,
-    "timeMonth": 258,
+    "timeDay": 220,
+    "timeWeek": 200,
+    "timeMonth": 264,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2025-11-22": 51,
@@ -25,7 +25,8 @@
       "2026-08-21": 178,
       "2026-08-20": 493,
       "2026-10-20": 98,
-      "2026-10-28": 106
+      "2026-10-28": 106,
+      "2026-11-20": 9
     }
   },
   {
@@ -40,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 201,
-    "timeWeek": 248,
-    "timeMonth": 296,
+    "timeDay": 181,
+    "timeWeek": 203,
+    "timeMonth": 274,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2026-07-18": 24
@@ -59,10 +60,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 341,
-    "timeWeek": 280,
-    "timeMonth": 355,
+    "time": 321,
+    "timeDay": 379,
+    "timeWeek": 285,
+    "timeMonth": 363,
     "timeYear": 320,
     "dailyMinutesDown": {}
   },
@@ -78,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 243,
+    "timeDay": 351,
     "timeWeek": 290,
-    "timeMonth": 347,
+    "timeMonth": 331,
     "timeYear": 301,
     "dailyMinutesDown": {}
   }
